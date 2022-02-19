@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pcusg
 - 👀 I’m interested in learning how to code. I'm an absolut beginner and curious how far i will come. 
-- 🌱 I’m currently learning the basics of HTML and HTML5. The first goal is to have a good understanding of Front End Developping.
+- 🌱 I’m currently learning the basics of HTML and CSS. The first goal is to have a good understanding of Front End Developping.
 
 There is always stuff to learn. The road to perfection is neverending.
 <!---
